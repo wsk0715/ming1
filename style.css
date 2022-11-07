@@ -1,0 +1,32 @@
+.hidden {
+    display: none;
+}
+
+header {
+    padding: 48px;
+}
+#title {
+    padding: 25px;
+    font-size: 90px;
+    text-align: center;
+    /* border-top: 2px solid gray;
+    border-bottom: 2px solid gray; */
+}
+article{
+    padding: 24px;
+    display: grid;
+    grid-template-rows: 400px 75px 50px;
+    text-align: center;
+}
+article #greetings {
+    font-size: 24px;
+}
+#quote #author {
+    padding: 8px;
+}
+
+
+#index{
+    padding: 200px;
+    text-align: center;
+}
