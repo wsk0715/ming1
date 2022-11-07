@@ -3,11 +3,11 @@
 }
 
 header {
-    padding: 48px;
+    padding: 25px;
 }
 #title {
-    padding: 25px;
-    font-size: 90px;
+    padding: 30px;
+    font-size: 70px;
     text-align: center;
     /* border-top: 2px solid gray;
     border-bottom: 2px solid gray; */
@@ -15,7 +15,7 @@ header {
 article{
     padding: 24px;
     display: grid;
-    grid-template-rows: 400px 75px 50px;
+    grid-template-rows: 300px 75px 50px;
     text-align: center;
 }
 article #greetings {
